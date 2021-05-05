@@ -5,3 +5,6 @@ with delivery boy details. And if he reject the order then app will search anoth
 boy who are in 12 km radius of client place. actually app makes a list of rider who are available within 12 km distance radius . If no 
 delivery boy is found then client will get another notification that no delivery boy is found. This radius of distance is dynamic as it 
 can be changed from cms. 
+
+# new Features to be incorporate
+Driver App
